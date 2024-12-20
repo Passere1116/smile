@@ -1,2 +1,2 @@
-# smile
-o jogo
+# Smile_Game
+Repositório do jogo Aonde está o Smile?
